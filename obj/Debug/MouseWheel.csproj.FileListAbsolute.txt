@@ -1,0 +1,8 @@
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\obj\Debug\MouseWheel.csprojResolveAssemblyReference.cache
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\bin\Debug\MouseWheel_V1.0.2.exe.config
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\bin\Debug\MouseWheel_V1.0.2.exe
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\bin\Debug\MouseWheel_V1.0.2.pdb
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\obj\Debug\MouseWheel.MainForm.resources
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\obj\Debug\MouseWheel.csproj.GenerateResource.Cache
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\obj\Debug\MouseWheel_V1.0.2.exe
+E:\Users\lhfx\Documents\SharpDevelop Projects\MW1.0.2\MouseWheel\MouseWheel\obj\Debug\MouseWheel_V1.0.2.pdb

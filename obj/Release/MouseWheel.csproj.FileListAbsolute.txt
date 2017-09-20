@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\obj\Release\MouseWheel.MainForm.resources
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\obj\Release\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\obj\Release\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\bin\Release\MouseWheel_V1.0.2.exe.config
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\bin\Release\MouseWheel_V1.0.2.exe
+C:\Users\admin\Desktop\MouseWheel\MouseWheel\obj\Release\MouseWheel_V1.0.2.exe
