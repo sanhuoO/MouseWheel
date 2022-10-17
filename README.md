@@ -4,7 +4,7 @@
 
 编译环境：vs2005 + c#
 
-程序下载： https://sanhuo.info/2016/01/07/mousewheel/
+程序下载： https://sanhuo.info/
 
 
     MouseWheel_V1.0.3
